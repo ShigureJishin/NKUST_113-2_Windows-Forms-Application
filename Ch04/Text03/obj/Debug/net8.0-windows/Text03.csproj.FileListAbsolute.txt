@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\bin\Debug\net8.0-windows\Text03.exe
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\bin\Debug\net8.0-windows\Text03.deps.json
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\bin\Debug\net8.0-windows\Text03.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\bin\Debug\net8.0-windows\Text03.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\bin\Debug\net8.0-windows\Text03.pdb
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.Form1.resources
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\refint\Text03.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.pdb
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\Text03.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Text03\obj\Debug\net8.0-windows\ref\Text03.dll

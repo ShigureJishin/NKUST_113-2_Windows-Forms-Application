@@ -1,0 +1,16 @@
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\bin\Debug\net8.0-windows\Test01.exe
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\bin\Debug\net8.0-windows\Test01.deps.json
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\bin\Debug\net8.0-windows\Test01.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\bin\Debug\net8.0-windows\Test01.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\bin\Debug\net8.0-windows\Test01.pdb
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.Form1.resources
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.csproj.GenerateResource.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\refint\Test01.dll
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.pdb
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\Test01.genruntimeconfig.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\Ch04\Test01\obj\Debug\net8.0-windows\ref\Test01.dll

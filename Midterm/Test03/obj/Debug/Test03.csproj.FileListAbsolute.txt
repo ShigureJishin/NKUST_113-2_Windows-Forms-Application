@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\bin\Debug\Test03.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\bin\Debug\Test03.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\bin\Debug\Test03.pdb
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\obj\Debug\Test03.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\obj\Debug\Test03.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\obj\Debug\Test03.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\obj\Debug\Test03.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test03\obj\Debug\Test03.pdb

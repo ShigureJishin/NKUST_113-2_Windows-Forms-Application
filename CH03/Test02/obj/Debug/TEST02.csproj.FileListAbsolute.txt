@@ -1,0 +1,7 @@
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\bin\Debug\TEST02.exe.config
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\bin\Debug\TEST02.exe
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\bin\Debug\TEST02.pdb
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\obj\Debug\TEST02.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\obj\Debug\TEST02.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\obj\Debug\TEST02.exe
+C:\Users\user\Documents\Visual Studio 2022\repos\CH03\TEST02\obj\Debug\TEST02.pdb

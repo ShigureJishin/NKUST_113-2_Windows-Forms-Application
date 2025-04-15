@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\bin\Debug\Test01.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\obj\Debug\Test01.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\bin\Debug\Test01.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\bin\Debug\Test01.pdb
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\obj\Debug\Test01.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test01\obj\Debug\Test01.pdb

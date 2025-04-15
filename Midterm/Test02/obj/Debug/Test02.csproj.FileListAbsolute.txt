@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\bin\Debug\Test02.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\bin\Debug\Test02.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\bin\Debug\Test02.pdb
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.exe
+c:\users\user\documents\visual studio 2015\Projects\Midterm\Test02\obj\Debug\Test02.pdb
